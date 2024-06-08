@@ -15,9 +15,9 @@ The project is structured with a simple file organization, including HTML for st
 
 ## Mockups
 
-Below are the links to the mockups for this project:
+Below are the mockups for this project:
 
-- **Given Mockup**: ![Given Mockup](/images/mock.png))
+- **Given Mockup**: ![Given Mockup](/images/mock.png)
 - **Actual Product**: ![Actual Product](/images/actual-mock.png)
 
 ## Implementation Details
